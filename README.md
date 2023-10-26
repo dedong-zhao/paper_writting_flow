@@ -5,4 +5,4 @@
 #### Data Analysis Figure: Generate, plan, add index in Excel --> copy to Visio --> output as pdf
 #### Schemetic Figure: create in Visio --> output as pdf
 ### Writing Order
-#### Main content --> introduction --> related works --> abstract/conclusion/title
+#### Main content --> related works --> introduction --> abstract/conclusion/title
