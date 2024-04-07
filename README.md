@@ -8,4 +8,4 @@
 #### Single column: 3.5 ~ 4 inches
 #### Double column: 7 ~ 8 inches
 ### Writing Order
-#### Main content --> related works --> introduction --> abstract/conclusion/title
+#### Implementation --> PPA analysis --> main content --> related works --> introduction --> abstract/conclusion/title
