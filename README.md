@@ -21,4 +21,10 @@
 
 ### Texmaker
 #### Options --> Configure Texmaker --> Commands --> Bib(la)tex --> biber %
-#### Options --> Configure Texmaker --> Quick Build --> xxx
+#### Options --> Configure Texmaker --> Quick Build
+```
+pdflatex main.tex
+biber main
+pdflatex main.tex
+pdflatex main.tex
+```
