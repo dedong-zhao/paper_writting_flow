@@ -18,3 +18,7 @@
   ```
 ### Writing Order
 #### Implementation --> PPA analysis --> main content --> related works --> introduction --> abstract/conclusion/title
+
+### Texmaker
+#### Options --> Configure Texmaker --> Commands --> Bib(la)tex --> biber %
+#### Options --> Configure Texmaker --> Quick Build --> xxx
