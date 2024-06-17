@@ -28,4 +28,4 @@ biber main
 pdflatex main.tex
 pdflatex main.tex
 ```
-#### Delete intermediate files geneated during compiling process
+#### Delete .bbl file geneated during compiling process
